@@ -168,7 +168,11 @@ Improve documentation of environment setup and test data.
 
 ## Attachments
 
-- [text](Reports.pdf)
+[reports](Reports.pdf)
+- https://github.com/PLP-Database-Design/wk-5-chebet123-1/issues/2#issue-3559887911
+- https://github.com/PLP-Database-Design/wk-5-chebet123-1/issues/3#issue-3559909561
+- https://github.com/PLP-Database-Design/wk-5-chebet123-1/issues/4#issue-3559926042
+
 
 ## Sign Off
 
@@ -176,7 +180,7 @@ Improve documentation of environment setup and test data.
 |------|------|-----------|------|
 |Mercy Chebet | Test Manager | | |
 | Emily Awuor| Risk Analyst | | |
-|Horace Witaba | Test Executor | | |
+|Horace Witaba | Test Executor |Done |28/10/2025 |
 
 ## Overall Summary
 

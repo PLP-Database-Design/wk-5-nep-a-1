@@ -199,4 +199,4 @@ Time constraints limited exploratory testing on usability. Instead, structured t
 High-risk areas (Leaderboard, Reset, Bonus Round) received the most test effort and were prioritized for early testing. This ensured that major gameplay and persistence issues were caught first.
 
 
-**Test Status:** ☐ Completed / ☐ In Progress / ☐ Deferred
+**Test Status:** ☐ Completed 

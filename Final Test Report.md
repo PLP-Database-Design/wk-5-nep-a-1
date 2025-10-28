@@ -11,9 +11,9 @@
 
 | Role | Name | Responsibilities |
 |------|------|------------------|
-| Test Manager | | Planning, scheduling, coordination, metric tracking |
-| Risk Analyst | | Risk identification, prioritization, test design linkage |
-| Test Executor | | Execution, evidence capture, defect logging |
+| Test Manager | Mercy Chebet| Planning, scheduling, coordination, metric tracking |
+| Risk Analyst | Emily Awour| Risk identification, prioritization, test design linkage |
+| Test Executor | Horace Witaba| Execution, evidence capture, defect logging |
 
 ## Group Rules
 

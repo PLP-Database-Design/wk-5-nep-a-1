@@ -31,33 +31,42 @@
 
 | Feature | Description | Risk Category |
 |---------|-------------|---------------|
-| Reset Game | Clears score and progress instantly | |
-| Leaderboard | Stores top 3 scores in localStorage | |
-| Bonus Round | Every 3 puzzles → doubles score | |
+| Reset Game | Clears score and progress instantly | Low |
+| Leaderboard | Stores top 3 scores in localStorage | High |
+| Bonus Round | Every 3 puzzles → doubles score | Low |
 
 ## Test Plan
 
 ### Objectives
 
-- 
+- Ensure the game logic works, scoring updates correctly, leaderboard persists. To verify the correct functionality, reliability, and usability of the Word Puzzle Game Plus, focusing on new features; Reset Game, Leaderboard, and Bonus Round; ensuring they meet user and technical requirements. 
 
 ### Scope
 
 **In Scope:**
-- 
+- UI, game logic, leaderboard
+- Reset functionality (resetGame())
+- Leaderboard persistence and sorting (getLeaderboard(), setLeaderboard(), updateLeaderboard())
+- Bonus round scoring (checkGuess())
+- Game logic integrity, UI updates, and localStorage handling
 
 **Out of Scope:**
-- 
+- non-game UI, backend
+- Network connectivity (offline only), accessibility beyond basic usability, and browser compatibility beyond Chrome
 
 ### Tools & Resources
 
-- 
+- VS Code, GitHub, Chrome, Jira
+- Test Manager, Risk Analyst, Test Executor
 
 ### Schedule
 
 | Phase | Planned Duration | Actual Duration | Status |
 |-------|------------------|-----------------|--------|
-| | | | |
+| Planning| 2 days| 2 days| Test Plan & Risk Matrix|
+| Risk Analysis| 2 days| 2 days| Test Cases & Scripts|
+| Execution| 2 days| 1 day | Test Results & Defect|
+
 
 ## Risk Analysis
 
